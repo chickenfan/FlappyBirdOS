@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.s
+*.h
+*.c
+*.bin
+*.iso
+*.img
+*.bat
